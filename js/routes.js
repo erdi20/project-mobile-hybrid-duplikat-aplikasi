@@ -1,4 +1,5 @@
 var routes = [
-  {path: '/', componentUrl:'pages/home.html'},
+  {path: '/', componentUrl:'pages/first.html'},
+  {path: '/second', componentUrl:'pages/second.html'},
   {path: '(.*)', url:'pages/404.html'}
 ]
