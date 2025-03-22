@@ -1,0 +1,12 @@
+.ios {
+  --f7-toggle-width: 200px;
+  --f7-toggle-height: 100px;
+
+  /* --f7-toggle-active-bg-color: rgb(230, 229, 229); */
+
+  --f7-toggle-inactive-knob-bg-color: rgb(255, 251, 251);
+  /* --f7-toggle-active-knob-bg-color: #fff; */
+  /* --f7-toggle-inactive-border-color:rgb(230, 229, 229); */
+  --f7-toggle-inactive-bg-color: rgb(230, 229, 229);
+}
+
